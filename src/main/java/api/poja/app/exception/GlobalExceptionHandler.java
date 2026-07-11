@@ -1,6 +1,6 @@
 package api.poja.app.exception;
 
-import hei.exo.sub.exception.model.ExceptionBody;
+import api.poja.app.exception.model.ExceptionBody;
 import jakarta.servlet.http.HttpServletRequest;
 import java.time.Instant;
 import org.springframework.http.ResponseEntity;
